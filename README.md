@@ -1,4 +1,6 @@
-### Hi there 👋
+apt update && apt upgrade
+pip install requests
+python info.py
 
 <!--
 **infokini/infokini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
